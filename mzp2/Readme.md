@@ -1,1 +1,1 @@
-# Metoda eulera - b³êdy lokalne i globalne
+ï»¿# Metoda eulera - bÅ‚Ä™dy lokalne i globalne
